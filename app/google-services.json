@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018866800739",
+    "firebase_url": "https://wechat-lijinyu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wechat-lijinyu",
+    "storage_bucket": "wechat-lijinyu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018866800739:android:1e7eb9cb85ea6ae1db0056",
+        "android_client_info": {
+          "package_name": "com.lijinyu.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018866800739-i8aj93cfmnr4dun63sj50gmc9uivnmf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuL8Xi6b3iSpskaagWbP4gP9jPqeMxDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018866800739-i8aj93cfmnr4dun63sj50gmc9uivnmf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
